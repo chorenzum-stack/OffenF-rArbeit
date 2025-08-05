@@ -1,4 +1,4 @@
 # OffenF-rArbeit
-Eine Stellenanzeige für eine geeignete Stelle, die genau Ihren beruflichen Fähigkeiten und Altersfähigkeiten entspricht. 
+Eine Stellenausschreibung für eine passende Position, die meinen beruflichen Fähigkeiten und meinem Alter am ehesten entspricht. 
 Glaube dem Geschriebenen!
 
